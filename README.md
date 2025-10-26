@@ -11,6 +11,7 @@
 - [ButterTasks](https://github.com/GabrieleGroppo/ButterTasks)
 - [DoIT](https://github.com/GabrieleGroppo/DoIT)
 - KubePattern
+- KubePattern [Documentation](https://github.com/GabrieleGroppo/kubepattern-doc) & [Pattern Registry](https://github.com/GabrieleGroppo/kubepattern-registry)
 ## GitHub Stats
 ![GabrieleGroppo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieleGroppo&show_icons=true&theme=radical)
 
