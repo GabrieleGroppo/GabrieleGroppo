@@ -10,4 +10,4 @@
 - [FastestLap](https://github.com/mbroglio/FastestLap)
 - [ButterTasks](https://github.com/GabrieleGroppo/ButterTasks)
 - [DoIT](https://github.com/GabrieleGroppo/DoIT)
-- **KubePattern** [Project](https://github.com/GabrieleGroppo/kubepattern), [Documentation](https://github.com/GabrieleGroppo/kubepattern-doc), [Pattern Registry](https://github.com/GabrieleGroppo/kubepattern-registry), [Website](https://www.kubepattern.it)
+- **KubePattern** [Project](https://github.com/GabrieleGroppo/kubepattern), [Documentation](https://docs.kubepattern.dev), [Pattern Registry](https://github.com/kubepattern/registry), [Website](https://kubepattern.dev)
