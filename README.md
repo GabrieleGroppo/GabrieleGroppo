@@ -1,13 +1,30 @@
 # Hi there, I'm Gabriele Groppo 👋
 
-## About Me
-- 🌱 I’m currently learning Kubernetes
-- 📫 How to reach me: [gabriele.groppo03@gmail.com](mailto:gabriele.groppo03@gmail.com)
-- 🎨 Check out my portfolio: [portfolio link](https://gabrielegroppo.it)
-- 🔭 I'm currently working on [KubePattern](https://github.com/kubepattern/kubepattern)
+## 🚀 Creator of [KubePattern](https://kubepattern.dev)
 
-## Best Projects
+## About Me
+- 🔭 I'm the author and lead maintainer of **[KubePattern](https://github.com/kubepattern/kubepattern)** (Bachelor's Thesis)
+- 🌱 I’m currently focused on **Kubernetes & Cloud Native technologies**
+- 📫 How to reach me: [gabriele.groppo03@gmail.com](mailto:gabriele.groppo03@gmail.com)
+- 🎨 Check out my portfolio: [gabrielegroppo.it](https://gabrielegroppo.it)
+
+---
+
+## 🏆 Featured Project
+
+### [KubePattern](https://github.com/kubepattern/kubepattern)
+> *Creator & Lead Maintainer*
+
+**KubePattern** is a cloud-native framework designed to identify and analyze Kubernetes patterns.
+[![Status](https://img.shields.io/badge/Status-Thesis_Project-blue?style=flat&logo=bookstack)](https://kubepattern.dev)
+[![Website](https://img.shields.io/badge/Website-kubepattern.dev-blueviolet?style=flat&logo=google-chrome&logoColor=white)](https://kubepattern.dev)
+
+* 📖 **Documentation:** [docs.kubepattern.dev](https://docs.kubepattern.dev)
+* 📦 **Registry:** [Pattern Registry](https://github.com/kubepattern/registry)
+
+---
+
+## 🛠 Other Projects
 - [FastestLap](https://github.com/mbroglio/FastestLap)
 - [ButterTasks](https://github.com/GabrieleGroppo/ButterTasks)
 - [DoIT](https://github.com/GabrieleGroppo/DoIT)
-- **KubePattern** [Project](https://github.com/kubepattern/kubepattern), [Documentation](https://docs.kubepattern.dev), [Pattern Registry](https://github.com/kubepattern/registry), [Website](https://kubepattern.dev)
