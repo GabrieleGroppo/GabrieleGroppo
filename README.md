@@ -18,7 +18,7 @@
 **KubePattern** is a cloud-native framework designed to identify and analyze Kubernetes patterns.
 [![Status](https://img.shields.io/badge/Status-Thesis_Project-blue?style=flat&logo=bookstack)](https://kubepattern.dev)
 
-* 📖 **Documentation:** [docs.kubepattern.dev](https://kubepattern.dev/docs/overview)
+* 📖 **Documentation:** [kubepattern.dev/docs](https://kubepattern.dev/docs/overview)
 * 📦 **Registry:** [Pattern Registry](https://github.com/kubepattern/registry)
 
 ---
