@@ -8,6 +8,10 @@
 
 ---
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/GabrieleGroppo/badge.svg)](https://hub.xerj.org/contributors/GabrieleGroppo)
+
+---
+
 ## 🏆 Featured Project
 
 ### [KubePattern](https://github.com/kubepattern/kubepattern)
